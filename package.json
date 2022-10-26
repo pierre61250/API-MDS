@@ -1,0 +1,19 @@
+{
+  "name": "api-mds",
+  "version": "1.0.0",
+  "description": "API répertoriant des infos sur l'univers de Star Wars (projet d'école pour MyDigitalSchool Angers)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierre61250/API-MDS.git"
+  },
+  "author": "Pierre COLLET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierre61250/API-MDS/issues"
+  },
+  "homepage": "https://github.com/pierre61250/API-MDS#readme"
+}
